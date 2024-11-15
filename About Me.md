@@ -26,12 +26,20 @@ ShuaikunNB，中文名 `橙橙痴橙`
 | --- | --- | --- | --- |
 | SkAura Tools | C++ | 一款较为实用的Windows工具箱 | 暂无
 # 我的链接
-[橙橙卡网](http://skshop1.sheng12.site)
-一款小有规模的卡网，主营Ns Tools/镜像定制/我的世界黑客客户端/...
-[橙橙博客](https://shuaikunnb.github.io)
-橙橙痴橙的博客，托管与于Github Page
-[橙橙的信息交流Q群](https://qm.qq.com/q/ZZRIXipR62)
-加入我们，大家一起交流关于信息技术的事，这不好吗？
+[橙橙卡网](http://skshop1.sheng12.site)  \
+
+一款小有规模的卡网，主营Ns Tools/镜像定制/我的世界黑客客户端/...   
+
+[橙橙博客](https://shuaikunnb.github.io)  
+
+橙橙痴橙的博客，托管与于Github Page  
+
+[橙橙的信息交流Q群](https://qm.qq.com/q/ZZRIXipR62)  
+
+加入我们，大家一起交流关于信息技术的事，这不好吗？    
+
 [橙橙BiliBili](https://space.bilibili.com/3546698542483755)
-[橙橙YouTube](https://youtube.com/@ShuaikunNB)
-欢迎关注我！我以后会持续投出优质视频的！
+[橙橙YouTube](https://youtube.com/@ShuaikunNB)  
+
+欢迎关注我！我以后会持续投出优质视频的！    
+
